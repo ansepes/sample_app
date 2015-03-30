@@ -19,7 +19,7 @@ gem 'coffee-rails', '4.1.0'
 gem 'jquery-rails', '4.0.3'
 gem 'turbolinks', '2.5.3'
 gem 'jbuilder', '2.2.8'
-
+gem 'tzinfo-data',platforms: [:mingw,:mswin,:x64_mingw]
 group :doc do
 	gem 'sdoc', '0.4.1', require: false
 end
